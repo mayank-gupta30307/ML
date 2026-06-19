@@ -2,16 +2,16 @@
 0,T-shirt/top,T-shirt/top,Yes
 1,Trouser,Trouser,Yes
 2,Pullover,Shirt,NO
-3,Pullover,T-shirt/top,NO
+3,Pullover,Pullover,Yes
 4,Dress,Dress,Yes
 5,Pullover,Shirt,NO
 6,Bag,Bag,Yes
-7,Shirt,Shirt,Yes
+7,Shirt,Pullover,NO
 8,Sandal,Sandal,Yes
 9,T-shirt/top,T-shirt/top,Yes
 10,Dress,Dress,Yes
-11,Coat,Pullover,NO
-12,Coat,Coat,Yes
+11,Coat,Coat,Yes
+12,Coat,Pullover,NO
 13,Shirt,Shirt,Yes
 14,Bag,Bag,Yes
 15,Sandal,Sandal,Yes
@@ -42,7 +42,7 @@
 40,Pullover,Pullover,Yes
 41,T-shirt/top,T-shirt/top,Yes
 42,Coat,Coat,Yes
-43,Shirt,Pullover,NO
+43,Shirt,Coat,NO
 44,Pullover,Pullover,Yes
 45,T-shirt/top,T-shirt/top,Yes
 46,Dress,Dress,Yes
@@ -72,7 +72,7 @@
 70,Sneaker,Sneaker,Yes
 71,Dress,Dress,Yes
 72,Coat,Coat,Yes
-73,Shirt,T-shirt/top,NO
+73,Shirt,Pullover,NO
 74,Sandal,Sandal,Yes
 75,Sneaker,Sneaker,Yes
 76,Trouser,Trouser,Yes
@@ -94,7 +94,7 @@
 92,Pullover,Coat,NO
 93,Pullover,Pullover,Yes
 94,Pullover,Trouser,NO
-95,Shirt,Trouser,NO
+95,Shirt,T-shirt/top,NO
 96,Coat,Coat,Yes
 97,Sneaker,Sneaker,Yes
 98,Sneaker,Sneaker,Yes
@@ -125,7 +125,7 @@
 123,Coat,Coat,Yes
 124,Sneaker,Sneaker,Yes
 125,T-shirt/top,T-shirt/top,Yes
-126,Bag,Bag,Yes
+126,Bag,Sandal,NO
 127,Sandal,Sandal,Yes
 128,T-shirt/top,T-shirt/top,Yes
 129,Dress,Dress,Yes
@@ -190,7 +190,7 @@
 188,T-shirt/top,T-shirt/top,Yes
 189,Sneaker,Sneaker,Yes
 190,Coat,Coat,Yes
-191,Ankle boot,Ankle boot,Yes
+191,Ankle boot,Sneaker,NO
 192,Trouser,Trouser,Yes
 193,Shirt,Shirt,Yes
 194,T-shirt/top,T-shirt/top,Yes
@@ -230,7 +230,7 @@
 228,Bag,Bag,Yes
 229,Trouser,Trouser,Yes
 230,Ankle boot,Ankle boot,Yes
-231,Sandal,Sandal,Yes
+231,Sandal,Sneaker,NO
 232,Shirt,T-shirt/top,NO
 233,Pullover,Pullover,Yes
 234,Ankle boot,Ankle boot,Yes
@@ -278,7 +278,7 @@
 276,Sandal,Sandal,Yes
 277,Sandal,Sandal,Yes
 278,Ankle boot,Ankle boot,Yes
-279,Sandal,Sandal,Yes
+279,Sandal,Sneaker,NO
 280,Bag,Bag,Yes
 281,Pullover,Coat,NO
 282,Coat,Coat,Yes
@@ -315,7 +315,7 @@
 313,Shirt,T-shirt/top,NO
 314,Sneaker,Sneaker,Yes
 315,Bag,Bag,Yes
-316,Sneaker,Ankle boot,NO
+316,Sneaker,Sneaker,Yes
 317,T-shirt/top,T-shirt/top,Yes
 318,Ankle boot,Ankle boot,Yes
 319,Pullover,Pullover,Yes
@@ -390,7 +390,7 @@
 388,Ankle boot,Ankle boot,Yes
 389,Sandal,Sandal,Yes
 390,Sandal,Sandal,Yes
-391,T-shirt/top,Dress,NO
+391,T-shirt/top,Shirt,NO
 392,Dress,Dress,Yes
 393,Coat,Coat,Yes
 394,Sneaker,Sneaker,Yes
@@ -581,7 +581,7 @@
 579,Trouser,Trouser,Yes
 580,Shirt,Pullover,NO
 581,Sneaker,Sneaker,Yes
-582,Coat,Shirt,NO
+582,Coat,Coat,Yes
 583,Coat,Coat,Yes
 584,Sandal,Sandal,Yes
 585,T-shirt/top,T-shirt/top,Yes
@@ -592,7 +592,7 @@
 590,Dress,Dress,Yes
 591,Pullover,Pullover,Yes
 592,T-shirt/top,T-shirt/top,Yes
-593,Pullover,Pullover,Yes
+593,Pullover,Coat,NO
 594,Sandal,Sandal,Yes
 595,Pullover,Pullover,Yes
 596,Ankle boot,Ankle boot,Yes
@@ -603,12 +603,12 @@
 601,Dress,Dress,Yes
 602,Sneaker,Sneaker,Yes
 603,Sandal,Sandal,Yes
-604,Sneaker,Sneaker,Yes
+604,Sneaker,Ankle boot,NO
 605,Bag,Bag,Yes
 606,Sandal,Sandal,Yes
 607,Dress,Dress,Yes
 608,T-shirt/top,T-shirt/top,Yes
-609,Shirt,Coat,NO
+609,Shirt,Dress,NO
 610,Sneaker,Sneaker,Yes
 611,Ankle boot,Ankle boot,Yes
 612,Shirt,Coat,NO
@@ -702,7 +702,7 @@
 700,Trouser,Trouser,Yes
 701,Trouser,Trouser,Yes
 702,Dress,Dress,Yes
-703,Coat,Pullover,NO
+703,Coat,Shirt,NO
 704,Sneaker,Sneaker,Yes
 705,Dress,Bag,NO
 706,Coat,Pullover,NO
@@ -741,7 +741,7 @@
 739,Coat,Coat,Yes
 740,Ankle boot,Ankle boot,Yes
 741,Dress,Dress,Yes
-742,Ankle boot,Sneaker,NO
+742,Ankle boot,Sandal,NO
 743,Dress,Dress,Yes
 744,Shirt,Shirt,Yes
 745,Bag,Bag,Yes
@@ -934,7 +934,7 @@
 932,Pullover,Shirt,NO
 933,Shirt,Shirt,Yes
 934,Bag,Bag,Yes
-935,Shirt,Shirt,Yes
+935,Shirt,T-shirt/top,NO
 936,Dress,T-shirt/top,NO
 937,Shirt,Shirt,Yes
 938,Trouser,Trouser,Yes
@@ -958,7 +958,7 @@
 956,Trouser,Trouser,Yes
 957,Bag,Bag,Yes
 958,Sandal,Sandal,Yes
-959,T-shirt/top,Shirt,NO
+959,T-shirt/top,T-shirt/top,Yes
 960,Pullover,Pullover,Yes
 961,Shirt,Shirt,Yes
 962,Dress,Dress,Yes
@@ -999,7 +999,7 @@
 997,Sneaker,Ankle boot,NO
 998,Coat,Coat,Yes
 999,Sandal,Sandal,Yes
-1000,Pullover,Pullover,Yes
+1000,Pullover,Coat,NO
 1001,Pullover,Pullover,Yes
 1002,Coat,Coat,Yes
 1003,Sandal,Sandal,Yes
@@ -1010,7 +1010,7 @@
 1008,Trouser,Trouser,Yes
 1009,Dress,Dress,Yes
 1010,Bag,Bag,Yes
-1011,T-shirt/top,Shirt,NO
+1011,T-shirt/top,T-shirt/top,Yes
 1012,Trouser,Trouser,Yes
 1013,Bag,Bag,Yes
 1014,Coat,Coat,Yes
@@ -1150,7 +1150,7 @@
 1148,Shirt,Shirt,Yes
 1149,Bag,Bag,Yes
 1150,Pullover,Coat,NO
-1151,Ankle boot,Sandal,NO
+1151,Ankle boot,Ankle boot,Yes
 1152,Shirt,Shirt,Yes
 1153,Dress,Dress,Yes
 1154,Ankle boot,Ankle boot,Yes
@@ -1177,10 +1177,10 @@
 1175,Coat,Coat,Yes
 1176,Trouser,Trouser,Yes
 1177,T-shirt/top,Shirt,NO
-1178,Trouser,Pullover,NO
+1178,Trouser,Trouser,Yes
 1179,Sneaker,Sneaker,Yes
 1180,Dress,Dress,Yes
-1181,Shirt,Shirt,Yes
+1181,Shirt,Coat,NO
 1182,T-shirt/top,T-shirt/top,Yes
 1183,Bag,Shirt,NO
 1184,Pullover,Pullover,Yes
@@ -1260,7 +1260,7 @@
 1258,T-shirt/top,T-shirt/top,Yes
 1259,Ankle boot,Ankle boot,Yes
 1260,Coat,Coat,Yes
-1261,Sandal,Sandal,Yes
+1261,Sandal,Sneaker,NO
 1262,Shirt,Shirt,Yes
 1263,Sandal,Sandal,Yes
 1264,Coat,Coat,Yes
@@ -1323,7 +1323,7 @@
 1321,Pullover,Pullover,Yes
 1322,Sandal,Sandal,Yes
 1323,Trouser,Shirt,NO
-1324,Shirt,Bag,NO
+1324,Shirt,Coat,NO
 1325,Shirt,Pullover,NO
 1326,Dress,Dress,Yes
 1327,Ankle boot,Ankle boot,Yes
@@ -1393,7 +1393,7 @@
 1391,Bag,Bag,Yes
 1392,Shirt,T-shirt/top,NO
 1393,Pullover,Pullover,Yes
-1394,Pullover,T-shirt/top,NO
+1394,Pullover,Pullover,Yes
 1395,Sneaker,Sneaker,Yes
 1396,Shirt,Shirt,Yes
 1397,Bag,Bag,Yes
@@ -1411,7 +1411,7 @@
 1409,T-shirt/top,T-shirt/top,Yes
 1410,Sandal,Sandal,Yes
 1411,Trouser,Trouser,Yes
-1412,Coat,Coat,Yes
+1412,Coat,Pullover,NO
 1413,Trouser,Trouser,Yes
 1414,Sneaker,Sneaker,Yes
 1415,Shirt,Shirt,Yes
@@ -1555,7 +1555,7 @@
 1553,Sandal,Sandal,Yes
 1554,Coat,Coat,Yes
 1555,Coat,Coat,Yes
-1556,Coat,Pullover,NO
+1556,Coat,Coat,Yes
 1557,Sneaker,Sneaker,Yes
 1558,Coat,Coat,Yes
 1559,Sneaker,Sneaker,Yes
@@ -1566,7 +1566,7 @@
 1564,Pullover,Bag,NO
 1565,Shirt,Shirt,Yes
 1566,Ankle boot,Ankle boot,Yes
-1567,Sneaker,Ankle boot,NO
+1567,Sneaker,Sneaker,Yes
 1568,T-shirt/top,T-shirt/top,Yes
 1569,Sneaker,Sneaker,Yes
 1570,Ankle boot,Ankle boot,Yes
@@ -1631,7 +1631,7 @@
 1629,Sandal,Sandal,Yes
 1630,Bag,Bag,Yes
 1631,Trouser,Trouser,Yes
-1632,Sneaker,Ankle boot,NO
+1632,Sneaker,Sneaker,Yes
 1633,Trouser,Trouser,Yes
 1634,Trouser,Trouser,Yes
 1635,Shirt,Coat,NO
@@ -1693,7 +1693,7 @@
 1691,T-shirt/top,T-shirt/top,Yes
 1692,Sneaker,Sneaker,Yes
 1693,Bag,Bag,Yes
-1694,Pullover,Bag,NO
+1694,Pullover,T-shirt/top,NO
 1695,Coat,Coat,Yes
 1696,Sneaker,Ankle boot,NO
 1697,Coat,Coat,Yes
@@ -1742,7 +1742,7 @@
 1740,Sneaker,Sneaker,Yes
 1741,Ankle boot,Ankle boot,Yes
 1742,Sandal,Sandal,Yes
-1743,Ankle boot,Ankle boot,Yes
+1743,Ankle boot,Sandal,NO
 1744,T-shirt/top,T-shirt/top,Yes
 1745,Sandal,Sandal,Yes
 1746,Dress,Dress,Yes
@@ -1812,7 +1812,7 @@
 1810,T-shirt/top,T-shirt/top,Yes
 1811,Coat,Coat,Yes
 1812,Ankle boot,Ankle boot,Yes
-1813,Sandal,Sneaker,NO
+1813,Sandal,Sandal,Yes
 1814,Trouser,Trouser,Yes
 1815,T-shirt/top,T-shirt/top,Yes
 1816,Sandal,Sandal,Yes
@@ -1875,7 +1875,7 @@
 1873,T-shirt/top,T-shirt/top,Yes
 1874,Pullover,Pullover,Yes
 1875,Sneaker,Ankle boot,NO
-1876,Dress,Dress,Yes
+1876,Dress,Coat,NO
 1877,T-shirt/top,T-shirt/top,Yes
 1878,Dress,Dress,Yes
 1879,T-shirt/top,T-shirt/top,Yes
@@ -1994,7 +1994,7 @@
 1992,Trouser,Trouser,Yes
 1993,T-shirt/top,T-shirt/top,Yes
 1994,Sneaker,Sneaker,Yes
-1995,Pullover,Shirt,NO
+1995,Pullover,Coat,NO
 1996,Sandal,Sandal,Yes
 1997,Pullover,Coat,NO
 1998,Sandal,Sandal,Yes
@@ -2061,7 +2061,7 @@
 2059,Bag,Bag,Yes
 2060,Sneaker,Ankle boot,NO
 2061,Coat,Coat,Yes
-2062,Coat,Coat,Yes
+2062,Coat,Pullover,NO
 2063,Dress,Dress,Yes
 2064,Bag,Bag,Yes
 2065,Ankle boot,Ankle boot,Yes
@@ -2117,7 +2117,7 @@
 2115,Shirt,Shirt,Yes
 2116,Pullover,Pullover,Yes
 2117,Ankle boot,Ankle boot,Yes
-2118,Dress,Dress,Yes
+2118,Dress,Bag,NO
 2119,Pullover,Pullover,Yes
 2120,Sandal,Ankle boot,NO
 2121,T-shirt/top,T-shirt/top,Yes
@@ -2155,7 +2155,7 @@
 2153,Trouser,Trouser,Yes
 2154,Ankle boot,Ankle boot,Yes
 2155,Sneaker,Sneaker,Yes
-2156,Coat,Pullover,NO
+2156,Coat,Coat,Yes
 2157,Pullover,Dress,NO
 2158,Bag,Bag,Yes
 2159,Sneaker,Sneaker,Yes
@@ -2300,7 +2300,7 @@
 2298,Pullover,Shirt,NO
 2299,Sandal,Sandal,Yes
 2300,Sandal,Sneaker,NO
-2301,Pullover,Pullover,Yes
+2301,Pullover,Coat,NO
 2302,Bag,Bag,Yes
 2303,Sandal,Sandal,Yes
 2304,Sneaker,Sneaker,Yes
@@ -2432,7 +2432,7 @@
 2430,Ankle boot,Ankle boot,Yes
 2431,Sandal,Sandal,Yes
 2432,Pullover,Pullover,Yes
-2433,Trouser,Pullover,NO
+2433,Trouser,Shirt,NO
 2434,Coat,Coat,Yes
 2435,Trouser,Trouser,Yes
 2436,Trouser,Trouser,Yes
@@ -2474,7 +2474,7 @@
 2472,Pullover,Shirt,NO
 2473,Pullover,Pullover,Yes
 2474,T-shirt/top,T-shirt/top,Yes
-2475,Ankle boot,Sandal,NO
+2475,Ankle boot,Ankle boot,Yes
 2476,Dress,Trouser,NO
 2477,Trouser,Trouser,Yes
 2478,Bag,Bag,Yes
@@ -2571,7 +2571,7 @@
 2569,Shirt,Shirt,Yes
 2570,T-shirt/top,T-shirt/top,Yes
 2571,Bag,Bag,Yes
-2572,Sandal,Bag,NO
+2572,Sandal,Sandal,Yes
 2573,Sandal,Sandal,Yes
 2574,Trouser,Trouser,Yes
 2575,Pullover,Coat,NO
@@ -2694,10 +2694,10 @@
 2692,Shirt,Shirt,Yes
 2693,Sandal,Sandal,Yes
 2694,Dress,Dress,Yes
-2695,Sandal,Sandal,Yes
+2695,Sandal,Sneaker,NO
 2696,Coat,Coat,Yes
 2697,Trouser,Trouser,Yes
-2698,Shirt,Dress,NO
+2698,Shirt,T-shirt/top,NO
 2699,Coat,Coat,Yes
 2700,Sandal,Sandal,Yes
 2701,Pullover,Pullover,Yes
@@ -2709,12 +2709,12 @@
 2707,Dress,Dress,Yes
 2708,Ankle boot,Ankle boot,Yes
 2709,Trouser,Trouser,Yes
-2710,Pullover,Pullover,Yes
+2710,Pullover,T-shirt/top,NO
 2711,Sneaker,Sneaker,Yes
 2712,Trouser,Trouser,Yes
 2713,Bag,Bag,Yes
 2714,Sandal,Sandal,Yes
-2715,Trouser,Shirt,NO
+2715,Trouser,Trouser,Yes
 2716,Sandal,Sandal,Yes
 2717,Pullover,Pullover,Yes
 2718,Dress,Dress,Yes
@@ -2760,7 +2760,7 @@
 2758,Sandal,Sandal,Yes
 2759,Sandal,Sandal,Yes
 2760,Sandal,Sandal,Yes
-2761,T-shirt/top,T-shirt/top,Yes
+2761,T-shirt/top,Shirt,NO
 2762,Ankle boot,Ankle boot,Yes
 2763,T-shirt/top,T-shirt/top,Yes
 2764,Trouser,Trouser,Yes
@@ -2806,7 +2806,7 @@
 2804,Dress,Coat,NO
 2805,Dress,Dress,Yes
 2806,Pullover,Coat,NO
-2807,Shirt,Shirt,Yes
+2807,Shirt,Coat,NO
 2808,T-shirt/top,T-shirt/top,Yes
 2809,Ankle boot,Ankle boot,Yes
 2810,Ankle boot,Ankle boot,Yes
@@ -2826,7 +2826,7 @@
 2824,Trouser,Trouser,Yes
 2825,T-shirt/top,Dress,NO
 2826,Bag,Bag,Yes
-2827,Coat,Shirt,NO
+2827,Coat,Coat,Yes
 2828,Shirt,Shirt,Yes
 2829,Pullover,Pullover,Yes
 2830,Ankle boot,Ankle boot,Yes
@@ -2957,13 +2957,13 @@
 2955,Pullover,Pullover,Yes
 2956,Trouser,Trouser,Yes
 2957,Shirt,Shirt,Yes
-2958,Pullover,Coat,NO
+2958,Pullover,Pullover,Yes
 2959,T-shirt/top,T-shirt/top,Yes
 2960,T-shirt/top,T-shirt/top,Yes
 2961,Coat,Coat,Yes
 2962,Dress,Dress,Yes
 2963,Ankle boot,Ankle boot,Yes
-2964,Shirt,T-shirt/top,NO
+2964,Shirt,Shirt,Yes
 2965,T-shirt/top,T-shirt/top,Yes
 2966,Bag,Bag,Yes
 2967,Sneaker,Sneaker,Yes
@@ -3050,7 +3050,7 @@
 3048,Sandal,Ankle boot,NO
 3049,Shirt,Shirt,Yes
 3050,Shirt,Shirt,Yes
-3051,Pullover,Coat,NO
+3051,Pullover,Dress,NO
 3052,Pullover,Pullover,Yes
 3053,Bag,Bag,Yes
 3054,Dress,Dress,Yes
@@ -3089,7 +3089,7 @@
 3087,Trouser,Trouser,Yes
 3088,Dress,Dress,Yes
 3089,Sandal,Sandal,Yes
-3090,Sandal,Ankle boot,NO
+3090,Sandal,Sandal,Yes
 3091,Coat,Coat,Yes
 3092,Sandal,Sandal,Yes
 3093,Dress,Dress,Yes
@@ -3102,7 +3102,7 @@
 3100,Coat,Coat,Yes
 3101,Dress,Dress,Yes
 3102,Trouser,Trouser,Yes
-3103,Dress,Pullover,NO
+3103,Dress,Coat,NO
 3104,Pullover,Dress,NO
 3105,Bag,Bag,Yes
 3106,Shirt,Shirt,Yes
@@ -3170,7 +3170,7 @@
 3168,Coat,Coat,Yes
 3169,Ankle boot,Ankle boot,Yes
 3170,Coat,Dress,NO
-3171,Shirt,Shirt,Yes
+3171,Shirt,Coat,NO
 3172,Ankle boot,Sneaker,NO
 3173,Dress,Dress,Yes
 3174,Sandal,Sandal,Yes
@@ -3283,7 +3283,7 @@
 3281,Dress,Dress,Yes
 3282,Bag,Bag,Yes
 3283,Bag,Bag,Yes
-3284,Coat,Pullover,NO
+3284,Coat,Coat,Yes
 3285,Shirt,Coat,NO
 3286,Sneaker,Sneaker,Yes
 3287,Trouser,Trouser,Yes
@@ -3342,7 +3342,7 @@
 3340,Sandal,Sandal,Yes
 3341,Coat,Coat,Yes
 3342,Pullover,Pullover,Yes
-3343,Ankle boot,Sandal,NO
+3343,Ankle boot,Bag,NO
 3344,Ankle boot,Ankle boot,Yes
 3345,Coat,Coat,Yes
 3346,Sneaker,Sneaker,Yes
@@ -3543,7 +3543,7 @@
 3541,Bag,Bag,Yes
 3542,Sneaker,Sneaker,Yes
 3543,Dress,Shirt,NO
-3544,Shirt,Shirt,Yes
+3544,Shirt,Dress,NO
 3545,Trouser,Trouser,Yes
 3546,Sandal,Sandal,Yes
 3547,Sandal,Sandal,Yes
@@ -3588,7 +3588,7 @@
 3586,Bag,Bag,Yes
 3587,Bag,Bag,Yes
 3588,Bag,Bag,Yes
-3589,Shirt,Shirt,Yes
+3589,Shirt,Pullover,NO
 3590,T-shirt/top,T-shirt/top,Yes
 3591,Bag,Pullover,NO
 3592,Shirt,Shirt,Yes
@@ -3628,7 +3628,7 @@
 3626,Shirt,Shirt,Yes
 3627,Sandal,Sandal,Yes
 3628,Bag,Bag,Yes
-3629,Coat,Pullover,NO
+3629,Coat,Coat,Yes
 3630,Shirt,Shirt,Yes
 3631,Shirt,Pullover,NO
 3632,Coat,Coat,Yes
@@ -3647,7 +3647,7 @@
 3645,Coat,Coat,Yes
 3646,Bag,Bag,Yes
 3647,Sneaker,Sneaker,Yes
-3648,Ankle boot,Sandal,NO
+3648,Ankle boot,Ankle boot,Yes
 3649,Pullover,Pullover,Yes
 3650,Ankle boot,Ankle boot,Yes
 3651,Coat,Coat,Yes
@@ -3688,7 +3688,7 @@
 3686,Dress,Dress,Yes
 3687,Pullover,Pullover,Yes
 3688,Sandal,Sandal,Yes
-3689,Coat,Dress,NO
+3689,Coat,Coat,Yes
 3690,Sneaker,Sneaker,Yes
 3691,Dress,Dress,Yes
 3692,Shirt,Coat,NO
@@ -3766,7 +3766,7 @@
 3764,Sandal,Sandal,Yes
 3765,Ankle boot,Ankle boot,Yes
 3766,Sandal,Sandal,Yes
-3767,Sneaker,Sandal,NO
+3767,Sneaker,Sneaker,Yes
 3768,Coat,Coat,Yes
 3769,Pullover,Pullover,Yes
 3770,Trouser,Trouser,Yes
@@ -3845,7 +3845,7 @@
 3843,Dress,Dress,Yes
 3844,Bag,Bag,Yes
 3845,Pullover,Pullover,Yes
-3846,Pullover,Shirt,NO
+3846,Pullover,Pullover,Yes
 3847,Shirt,Shirt,Yes
 3848,Ankle boot,Ankle boot,Yes
 3849,Bag,Bag,Yes
@@ -3935,7 +3935,7 @@
 3933,Trouser,Pullover,NO
 3934,T-shirt/top,T-shirt/top,Yes
 3935,T-shirt/top,T-shirt/top,Yes
-3936,Dress,Coat,NO
+3936,Dress,Dress,Yes
 3937,Sandal,Sandal,Yes
 3938,Trouser,Trouser,Yes
 3939,Trouser,Trouser,Yes
@@ -3987,7 +3987,7 @@
 3985,Dress,Dress,Yes
 3986,Shirt,Shirt,Yes
 3987,Sandal,Sandal,Yes
-3988,Coat,Dress,NO
+3988,Coat,Coat,Yes
 3989,Ankle boot,Ankle boot,Yes
 3990,Coat,Coat,Yes
 3991,Trouser,Trouser,Yes
@@ -4008,7 +4008,7 @@
 4006,Bag,Bag,Yes
 4007,Sneaker,Sneaker,Yes
 4008,Sneaker,Sneaker,Yes
-4009,Sandal,Bag,NO
+4009,Sandal,Sandal,Yes
 4010,Bag,Bag,Yes
 4011,Dress,Dress,Yes
 4012,Ankle boot,Ankle boot,Yes
@@ -4026,9 +4026,9 @@
 4024,Coat,Coat,Yes
 4025,Dress,Dress,Yes
 4026,Pullover,Coat,NO
-4027,Shirt,Dress,NO
+4027,Shirt,Shirt,Yes
 4028,Dress,T-shirt/top,NO
-4029,Pullover,Coat,NO
+4029,Pullover,Pullover,Yes
 4030,Sneaker,Sneaker,Yes
 4031,Ankle boot,Sandal,NO
 4032,Pullover,Pullover,Yes
@@ -4126,7 +4126,7 @@
 4124,Sandal,Sandal,Yes
 4125,Ankle boot,Ankle boot,Yes
 4126,Bag,Bag,Yes
-4127,Dress,Coat,NO
+4127,Dress,Pullover,NO
 4128,Trouser,Trouser,Yes
 4129,Sandal,Sandal,Yes
 4130,Sandal,Sandal,Yes
@@ -4213,13 +4213,13 @@
 4211,Shirt,Dress,NO
 4212,Coat,Coat,Yes
 4213,Sneaker,Sneaker,Yes
-4214,Shirt,Shirt,Yes
+4214,Shirt,T-shirt/top,NO
 4215,Pullover,Pullover,Yes
 4216,Pullover,Pullover,Yes
 4217,Bag,Bag,Yes
 4218,Sandal,Sandal,Yes
 4219,Ankle boot,Ankle boot,Yes
-4220,Shirt,T-shirt/top,NO
+4220,Shirt,Shirt,Yes
 4221,Shirt,Pullover,NO
 4222,T-shirt/top,T-shirt/top,Yes
 4223,Dress,Dress,Yes
@@ -4287,7 +4287,7 @@
 4285,Dress,Dress,Yes
 4286,Coat,Shirt,NO
 4287,Ankle boot,Ankle boot,Yes
-4288,Coat,Coat,Yes
+4288,Coat,Dress,NO
 4289,Bag,Bag,Yes
 4290,Shirt,Shirt,Yes
 4291,Shirt,Coat,NO
@@ -4376,7 +4376,7 @@
 4374,Coat,Coat,Yes
 4375,Pullover,Coat,NO
 4376,Trouser,Trouser,Yes
-4377,Sneaker,Sneaker,Yes
+4377,Sneaker,Ankle boot,NO
 4378,Bag,Bag,Yes
 4379,Sneaker,Sneaker,Yes
 4380,Coat,Coat,Yes
@@ -4490,7 +4490,7 @@
 4488,Ankle boot,Ankle boot,Yes
 4489,Trouser,Trouser,Yes
 4490,Pullover,Pullover,Yes
-4491,Coat,Coat,Yes
+4491,Coat,Dress,NO
 4492,Sandal,Sandal,Yes
 4493,Shirt,Coat,NO
 4494,Sandal,Sandal,Yes
@@ -4792,7 +4792,7 @@
 4790,Coat,Coat,Yes
 4791,T-shirt/top,T-shirt/top,Yes
 4792,Trouser,Trouser,Yes
-4793,Coat,Shirt,NO
+4793,Coat,Coat,Yes
 4794,Coat,Coat,Yes
 4795,Coat,Coat,Yes
 4796,T-shirt/top,T-shirt/top,Yes
@@ -4890,7 +4890,7 @@
 4888,Ankle boot,Ankle boot,Yes
 4889,Dress,Dress,Yes
 4890,Ankle boot,Ankle boot,Yes
-4891,Bag,Pullover,NO
+4891,Bag,Coat,NO
 4892,Coat,Coat,Yes
 4893,T-shirt/top,T-shirt/top,Yes
 4894,Pullover,Pullover,Yes
@@ -4951,7 +4951,7 @@
 4949,Coat,Coat,Yes
 4950,Ankle boot,Ankle boot,Yes
 4951,Pullover,Pullover,Yes
-4952,Dress,Dress,Yes
+4952,Dress,Coat,NO
 4953,Sandal,Sandal,Yes
 4954,Sandal,Sneaker,NO
 4955,Shirt,T-shirt/top,NO
@@ -4965,7 +4965,7 @@
 4963,Shirt,Pullover,NO
 4964,T-shirt/top,T-shirt/top,Yes
 4965,Bag,Bag,Yes
-4966,Pullover,Bag,NO
+4966,Pullover,Pullover,Yes
 4967,Pullover,Pullover,Yes
 4968,T-shirt/top,Shirt,NO
 4969,Shirt,Shirt,Yes
@@ -4974,7 +4974,7 @@
 4972,Dress,Dress,Yes
 4973,Bag,Bag,Yes
 4974,Shirt,T-shirt/top,NO
-4975,Pullover,Pullover,Yes
+4975,Pullover,Shirt,NO
 4976,Shirt,Shirt,Yes
 4977,Sandal,Sandal,Yes
 4978,Coat,Coat,Yes
@@ -4987,7 +4987,7 @@
 4985,Sneaker,Sneaker,Yes
 4986,Pullover,Bag,NO
 4987,Pullover,Pullover,Yes
-4988,Pullover,Pullover,Yes
+4988,Pullover,T-shirt/top,NO
 4989,Shirt,T-shirt/top,NO
 4990,Pullover,T-shirt/top,NO
 4991,Coat,Coat,Yes
@@ -5101,7 +5101,7 @@
 5099,Dress,Dress,Yes
 5100,Sandal,Sandal,Yes
 5101,Sandal,Sandal,Yes
-5102,Sneaker,Ankle boot,NO
+5102,Sneaker,Sneaker,Yes
 5103,Coat,Coat,Yes
 5104,Trouser,Trouser,Yes
 5105,T-shirt/top,T-shirt/top,Yes
@@ -5194,7 +5194,7 @@
 5192,Sandal,Sandal,Yes
 5193,Shirt,Shirt,Yes
 5194,Bag,Bag,Yes
-5195,Ankle boot,Sandal,NO
+5195,Ankle boot,Ankle boot,Yes
 5196,Sneaker,Sneaker,Yes
 5197,Shirt,Shirt,Yes
 5198,Sandal,Sandal,Yes
@@ -5220,10 +5220,10 @@
 5218,Sandal,Sandal,Yes
 5219,Bag,Bag,Yes
 5220,Pullover,Pullover,Yes
-5221,Shirt,Coat,NO
+5221,Shirt,Shirt,Yes
 5222,Pullover,Pullover,Yes
 5223,Shirt,Coat,NO
-5224,Shirt,Bag,NO
+5224,Shirt,T-shirt/top,NO
 5225,Pullover,Pullover,Yes
 5226,Shirt,Pullover,NO
 5227,Sneaker,Sneaker,Yes
@@ -5475,12 +5475,12 @@
 5473,Ankle boot,Ankle boot,Yes
 5474,Pullover,Pullover,Yes
 5475,Bag,Bag,Yes
-5476,Sneaker,Sneaker,Yes
+5476,Sneaker,Ankle boot,NO
 5477,Bag,Bag,Yes
 5478,Trouser,Trouser,Yes
 5479,Ankle boot,Ankle boot,Yes
 5480,T-shirt/top,Pullover,NO
-5481,Shirt,T-shirt/top,NO
+5481,Shirt,Shirt,Yes
 5482,Sneaker,Sneaker,Yes
 5483,Ankle boot,Ankle boot,Yes
 5484,Shirt,Shirt,Yes
@@ -5531,7 +5531,7 @@
 5529,Sneaker,Sneaker,Yes
 5530,Ankle boot,Ankle boot,Yes
 5531,Sneaker,Sneaker,Yes
-5532,Dress,Pullover,NO
+5532,Dress,Shirt,NO
 5533,Trouser,Trouser,Yes
 5534,Coat,Pullover,NO
 5535,Shirt,Shirt,Yes
@@ -5571,7 +5571,7 @@
 5569,Shirt,Shirt,Yes
 5570,Ankle boot,Ankle boot,Yes
 5571,Dress,Dress,Yes
-5572,Pullover,Pullover,Yes
+5572,Pullover,Shirt,NO
 5573,T-shirt/top,Dress,NO
 5574,Sneaker,Sneaker,Yes
 5575,T-shirt/top,T-shirt/top,Yes
@@ -5647,7 +5647,7 @@
 5645,Bag,Bag,Yes
 5646,Ankle boot,Ankle boot,Yes
 5647,T-shirt/top,Dress,NO
-5648,Dress,Dress,Yes
+5648,Dress,Coat,NO
 5649,Ankle boot,Ankle boot,Yes
 5650,Sandal,Sandal,Yes
 5651,Sandal,Sandal,Yes
@@ -5704,7 +5704,7 @@
 5702,Dress,Dress,Yes
 5703,Trouser,Trouser,Yes
 5704,Ankle boot,Ankle boot,Yes
-5705,Shirt,Shirt,Yes
+5705,Shirt,Pullover,NO
 5706,Ankle boot,Ankle boot,Yes
 5707,Dress,Shirt,NO
 5708,Coat,Coat,Yes
@@ -5746,7 +5746,7 @@
 5744,Pullover,Pullover,Yes
 5745,Dress,Dress,Yes
 5746,T-shirt/top,T-shirt/top,Yes
-5747,Sandal,Ankle boot,NO
+5747,Sandal,Sandal,Yes
 5748,Sneaker,Sneaker,Yes
 5749,T-shirt/top,T-shirt/top,Yes
 5750,T-shirt/top,T-shirt/top,Yes
@@ -5774,7 +5774,7 @@
 5772,Sneaker,Sneaker,Yes
 5773,Dress,Dress,Yes
 5774,Shirt,T-shirt/top,NO
-5775,Sneaker,Sandal,NO
+5775,Sneaker,Ankle boot,NO
 5776,Shirt,Shirt,Yes
 5777,Shirt,T-shirt/top,NO
 5778,Coat,Coat,Yes
@@ -5948,7 +5948,7 @@
 5946,Pullover,Pullover,Yes
 5947,Pullover,Dress,NO
 5948,Dress,Dress,Yes
-5949,Pullover,Dress,NO
+5949,Pullover,Coat,NO
 5950,T-shirt/top,T-shirt/top,Yes
 5951,Shirt,Shirt,Yes
 5952,Sandal,Sandal,Yes
@@ -5964,7 +5964,7 @@
 5962,Trouser,Trouser,Yes
 5963,Dress,T-shirt/top,NO
 5964,T-shirt/top,T-shirt/top,Yes
-5965,Shirt,Shirt,Yes
+5965,Shirt,Coat,NO
 5966,Ankle boot,Ankle boot,Yes
 5967,Dress,Dress,Yes
 5968,Sneaker,Sneaker,Yes
@@ -6158,7 +6158,7 @@
 6156,Sandal,Sandal,Yes
 6157,Ankle boot,Ankle boot,Yes
 6158,Dress,Dress,Yes
-6159,T-shirt/top,T-shirt/top,Yes
+6159,T-shirt/top,Shirt,NO
 6160,Bag,Bag,Yes
 6161,Pullover,Pullover,Yes
 6162,Sandal,Sandal,Yes
@@ -6268,7 +6268,7 @@
 6266,Bag,Bag,Yes
 6267,Sandal,Sandal,Yes
 6268,Shirt,Shirt,Yes
-6269,Sneaker,Sandal,NO
+6269,Sneaker,Sneaker,Yes
 6270,Sneaker,Sneaker,Yes
 6271,Dress,Dress,Yes
 6272,T-shirt/top,T-shirt/top,Yes
@@ -6362,7 +6362,7 @@
 6360,Sandal,Sandal,Yes
 6361,T-shirt/top,T-shirt/top,Yes
 6362,T-shirt/top,T-shirt/top,Yes
-6363,Shirt,Shirt,Yes
+6363,Shirt,Pullover,NO
 6364,Sneaker,Sneaker,Yes
 6365,Bag,Bag,Yes
 6366,Bag,Bag,Yes
@@ -6394,7 +6394,7 @@
 6392,Pullover,Pullover,Yes
 6393,Shirt,T-shirt/top,NO
 6394,T-shirt/top,T-shirt/top,Yes
-6395,T-shirt/top,Shirt,NO
+6395,T-shirt/top,T-shirt/top,Yes
 6396,Dress,Dress,Yes
 6397,Dress,Dress,Yes
 6398,Pullover,Pullover,Yes
@@ -6473,7 +6473,7 @@
 6471,Shirt,T-shirt/top,NO
 6472,Trouser,Trouser,Yes
 6473,T-shirt/top,T-shirt/top,Yes
-6474,Pullover,Pullover,Yes
+6474,Pullover,Coat,NO
 6475,Ankle boot,Ankle boot,Yes
 6476,Pullover,Coat,NO
 6477,Bag,Bag,Yes
@@ -6546,7 +6546,7 @@
 6544,Sneaker,Sneaker,Yes
 6545,Ankle boot,Ankle boot,Yes
 6546,Ankle boot,Ankle boot,Yes
-6547,Pullover,Shirt,NO
+6547,Pullover,Coat,NO
 6548,Dress,Dress,Yes
 6549,Trouser,Trouser,Yes
 6550,Sneaker,Sneaker,Yes
@@ -6714,7 +6714,7 @@
 6712,T-shirt/top,T-shirt/top,Yes
 6713,Sneaker,Sneaker,Yes
 6714,Coat,Shirt,NO
-6715,Sandal,Sandal,Yes
+6715,Sandal,Sneaker,NO
 6716,Pullover,Coat,NO
 6717,Dress,Dress,Yes
 6718,Trouser,Trouser,Yes
@@ -6742,7 +6742,7 @@
 6740,Shirt,Shirt,Yes
 6741,Bag,Bag,Yes
 6742,Sneaker,Sneaker,Yes
-6743,Shirt,Shirt,Yes
+6743,Shirt,T-shirt/top,NO
 6744,Sneaker,Sneaker,Yes
 6745,Ankle boot,Ankle boot,Yes
 6746,Trouser,Trouser,Yes
@@ -6829,7 +6829,7 @@
 6827,Shirt,Shirt,Yes
 6828,Sneaker,Sneaker,Yes
 6829,Ankle boot,Ankle boot,Yes
-6830,Shirt,Shirt,Yes
+6830,Shirt,Coat,NO
 6831,Dress,Dress,Yes
 6832,Ankle boot,Sneaker,NO
 6833,Shirt,Shirt,Yes
@@ -6879,7 +6879,7 @@
 6877,Ankle boot,Ankle boot,Yes
 6878,Bag,Bag,Yes
 6879,Sneaker,Sneaker,Yes
-6880,Shirt,Coat,NO
+6880,Shirt,T-shirt/top,NO
 6881,Sandal,Sandal,Yes
 6882,Sandal,Sandal,Yes
 6883,Shirt,Shirt,Yes
@@ -6893,10 +6893,10 @@
 6891,Sneaker,Sneaker,Yes
 6892,T-shirt/top,T-shirt/top,Yes
 6893,T-shirt/top,T-shirt/top,Yes
-6894,Coat,Shirt,NO
+6894,Coat,Coat,Yes
 6895,Trouser,Trouser,Yes
 6896,Shirt,Shirt,Yes
-6897,T-shirt/top,T-shirt/top,Yes
+6897,T-shirt/top,Dress,NO
 6898,Shirt,Shirt,Yes
 6899,Pullover,Pullover,Yes
 6900,Dress,Coat,NO
@@ -7134,7 +7134,7 @@
 7132,Dress,Dress,Yes
 7133,Sneaker,Sneaker,Yes
 7134,Ankle boot,Sneaker,NO
-7135,Ankle boot,Sandal,NO
+7135,Ankle boot,Ankle boot,Yes
 7136,Pullover,Pullover,Yes
 7137,Coat,Coat,Yes
 7138,Sneaker,Sneaker,Yes
@@ -7155,7 +7155,7 @@
 7153,Dress,Dress,Yes
 7154,Dress,Dress,Yes
 7155,T-shirt/top,T-shirt/top,Yes
-7156,Pullover,Pullover,Yes
+7156,Pullover,Coat,NO
 7157,Sneaker,Sneaker,Yes
 7158,Trouser,Trouser,Yes
 7159,Coat,Dress,NO
@@ -7299,7 +7299,7 @@
 7297,T-shirt/top,T-shirt/top,Yes
 7298,Ankle boot,Ankle boot,Yes
 7299,Sandal,Sandal,Yes
-7300,Sneaker,Sandal,NO
+7300,Sneaker,Sneaker,Yes
 7301,Dress,Dress,Yes
 7302,Coat,Coat,Yes
 7303,Sandal,Sandal,Yes
@@ -7420,7 +7420,7 @@
 7418,Coat,Coat,Yes
 7419,Trouser,Trouser,Yes
 7420,Pullover,Coat,NO
-7421,T-shirt/top,T-shirt/top,Yes
+7421,T-shirt/top,Trouser,NO
 7422,Sneaker,Sneaker,Yes
 7423,Bag,Bag,Yes
 7424,Trouser,Trouser,Yes
@@ -7429,7 +7429,7 @@
 7427,Pullover,Pullover,Yes
 7428,Sneaker,Sneaker,Yes
 7429,Sneaker,Sneaker,Yes
-7430,T-shirt/top,Pullover,NO
+7430,T-shirt/top,Shirt,NO
 7431,Ankle boot,Ankle boot,Yes
 7432,Pullover,Pullover,Yes
 7433,Bag,Bag,Yes
@@ -7459,7 +7459,7 @@
 7457,Bag,Bag,Yes
 7458,Shirt,Shirt,Yes
 7459,Sandal,Sneaker,NO
-7460,T-shirt/top,Shirt,NO
+7460,T-shirt/top,T-shirt/top,Yes
 7461,Sneaker,Sneaker,Yes
 7462,T-shirt/top,T-shirt/top,Yes
 7463,Coat,Coat,Yes
@@ -7567,7 +7567,7 @@
 7565,Shirt,Coat,NO
 7566,Bag,Bag,Yes
 7567,Coat,Coat,Yes
-7568,Shirt,Pullover,NO
+7568,Shirt,Shirt,Yes
 7569,Sneaker,Sneaker,Yes
 7570,Dress,Shirt,NO
 7571,Dress,Dress,Yes
@@ -7736,7 +7736,7 @@
 7734,Coat,Coat,Yes
 7735,Ankle boot,Ankle boot,Yes
 7736,Ankle boot,Ankle boot,Yes
-7737,Shirt,T-shirt/top,NO
+7737,Shirt,Pullover,NO
 7738,Ankle boot,Ankle boot,Yes
 7739,Shirt,Dress,NO
 7740,Dress,Dress,Yes
@@ -7767,7 +7767,7 @@
 7765,Coat,Coat,Yes
 7766,Shirt,Shirt,Yes
 7767,Bag,Bag,Yes
-7768,Coat,Shirt,NO
+7768,Coat,Coat,Yes
 7769,Dress,Dress,Yes
 7770,Coat,Coat,Yes
 7771,T-shirt/top,T-shirt/top,Yes
@@ -7869,14 +7869,14 @@
 7867,Trouser,Trouser,Yes
 7868,Shirt,Shirt,Yes
 7869,T-shirt/top,T-shirt/top,Yes
-7870,Pullover,Pullover,Yes
+7870,Pullover,Coat,NO
 7871,Ankle boot,Ankle boot,Yes
-7872,Bag,Pullover,NO
+7872,Bag,Shirt,NO
 7873,Ankle boot,Ankle boot,Yes
 7874,Sneaker,Sneaker,Yes
 7875,Ankle boot,Ankle boot,Yes
 7876,Dress,Dress,Yes
-7877,Bag,Shirt,NO
+7877,Bag,T-shirt/top,NO
 7878,Sneaker,Sneaker,Yes
 7879,Sneaker,Sandal,NO
 7880,Sandal,Sandal,Yes
@@ -7896,7 +7896,7 @@
 7894,Coat,Coat,Yes
 7895,Trouser,Trouser,Yes
 7896,Pullover,Pullover,Yes
-7897,Sneaker,Sneaker,Yes
+7897,Sneaker,Ankle boot,NO
 7898,Trouser,Trouser,Yes
 7899,Ankle boot,Ankle boot,Yes
 7900,Ankle boot,Ankle boot,Yes
@@ -7917,7 +7917,7 @@
 7915,Dress,Sandal,NO
 7916,Trouser,Trouser,Yes
 7917,Ankle boot,Ankle boot,Yes
-7918,Sneaker,Sandal,NO
+7918,Sneaker,Sneaker,Yes
 7919,Sneaker,Ankle boot,NO
 7920,Sandal,Sandal,Yes
 7921,Pullover,Pullover,Yes
@@ -8106,7 +8106,7 @@
 8104,Dress,Dress,Yes
 8105,Dress,Dress,Yes
 8106,T-shirt/top,T-shirt/top,Yes
-8107,Coat,Pullover,NO
+8107,Coat,Coat,Yes
 8108,Coat,Pullover,NO
 8109,Shirt,Shirt,Yes
 8110,Sandal,Sandal,Yes
@@ -8130,7 +8130,7 @@
 8128,Dress,Dress,Yes
 8129,Coat,Pullover,NO
 8130,Sandal,Sandal,Yes
-8131,Sneaker,Sneaker,Yes
+8131,Sneaker,Sandal,NO
 8132,Ankle boot,Ankle boot,Yes
 8133,T-shirt/top,T-shirt/top,Yes
 8134,Ankle boot,Sandal,NO
@@ -8300,9 +8300,9 @@
 8298,Shirt,Pullover,NO
 8299,Ankle boot,Ankle boot,Yes
 8300,T-shirt/top,T-shirt/top,Yes
-8301,Shirt,Pullover,NO
+8301,Shirt,Shirt,Yes
 8302,Dress,Dress,Yes
-8303,Sneaker,Sandal,NO
+8303,Sneaker,Sneaker,Yes
 8304,T-shirt/top,T-shirt/top,Yes
 8305,Bag,Bag,Yes
 8306,Bag,Bag,Yes
@@ -8335,7 +8335,7 @@
 8333,Ankle boot,Ankle boot,Yes
 8334,Shirt,Shirt,Yes
 8335,Coat,Coat,Yes
-8336,Shirt,Pullover,NO
+8336,Shirt,Coat,NO
 8337,Sneaker,Sneaker,Yes
 8338,Trouser,Trouser,Yes
 8339,T-shirt/top,T-shirt/top,Yes
@@ -8346,7 +8346,7 @@
 8344,T-shirt/top,T-shirt/top,Yes
 8345,Bag,Bag,Yes
 8346,Trouser,Trouser,Yes
-8347,Trouser,Trouser,Yes
+8347,Trouser,Dress,NO
 8348,Pullover,Pullover,Yes
 8349,Bag,Bag,Yes
 8350,Ankle boot,Ankle boot,Yes
@@ -8360,7 +8360,7 @@
 8358,T-shirt/top,T-shirt/top,Yes
 8359,Coat,Coat,Yes
 8360,Coat,Coat,Yes
-8361,Pullover,Coat,NO
+8361,Pullover,Pullover,Yes
 8362,Sandal,Sandal,Yes
 8363,Dress,Dress,Yes
 8364,Shirt,Shirt,Yes
@@ -8375,7 +8375,7 @@
 8373,Sneaker,Sneaker,Yes
 8374,Ankle boot,Ankle boot,Yes
 8375,Pullover,Pullover,Yes
-8376,T-shirt/top,T-shirt/top,Yes
+8376,T-shirt/top,Shirt,NO
 8377,Sandal,Sandal,Yes
 8378,Shirt,Shirt,Yes
 8379,T-shirt/top,T-shirt/top,Yes
@@ -8500,7 +8500,7 @@
 8498,Sneaker,Sneaker,Yes
 8499,Coat,Coat,Yes
 8500,Trouser,Trouser,Yes
-8501,Coat,Shirt,NO
+8501,Coat,Coat,Yes
 8502,T-shirt/top,T-shirt/top,Yes
 8503,Trouser,Trouser,Yes
 8504,Ankle boot,Ankle boot,Yes
@@ -8667,7 +8667,7 @@
 8665,Shirt,Shirt,Yes
 8666,Ankle boot,Ankle boot,Yes
 8667,Coat,Coat,Yes
-8668,T-shirt/top,Bag,NO
+8668,T-shirt/top,Shirt,NO
 8669,Trouser,Trouser,Yes
 8670,Trouser,Trouser,Yes
 8671,T-shirt/top,T-shirt/top,Yes
@@ -8778,7 +8778,7 @@
 8776,Dress,Dress,Yes
 8777,Bag,Bag,Yes
 8778,Sandal,Sandal,Yes
-8779,Sandal,Ankle boot,NO
+8779,Sandal,Sandal,Yes
 8780,Coat,Pullover,NO
 8781,T-shirt/top,T-shirt/top,Yes
 8782,T-shirt/top,T-shirt/top,Yes
@@ -8846,7 +8846,7 @@
 8844,Sandal,Sandal,Yes
 8845,Dress,Dress,Yes
 8846,Coat,Coat,Yes
-8847,T-shirt/top,Shirt,NO
+8847,T-shirt/top,T-shirt/top,Yes
 8848,Coat,Coat,Yes
 8849,Sandal,Sandal,Yes
 8850,Trouser,Trouser,Yes
@@ -8860,7 +8860,7 @@
 8858,Coat,Coat,Yes
 8859,Dress,Dress,Yes
 8860,Dress,Dress,Yes
-8861,Pullover,Coat,NO
+8861,Pullover,Pullover,Yes
 8862,Trouser,Trouser,Yes
 8863,T-shirt/top,T-shirt/top,Yes
 8864,Trouser,Trouser,Yes
@@ -9021,7 +9021,7 @@
 9019,Ankle boot,Sneaker,NO
 9020,T-shirt/top,T-shirt/top,Yes
 9021,Trouser,Trouser,Yes
-9022,T-shirt/top,Pullover,NO
+9022,T-shirt/top,Shirt,NO
 9023,Trouser,Trouser,Yes
 9024,Coat,Dress,NO
 9025,Shirt,Coat,NO
@@ -9029,7 +9029,7 @@
 9027,Bag,Bag,Yes
 9028,Bag,Bag,Yes
 9029,Ankle boot,Ankle boot,Yes
-9030,T-shirt/top,T-shirt/top,Yes
+9030,T-shirt/top,Shirt,NO
 9031,Trouser,Trouser,Yes
 9032,Bag,Bag,Yes
 9033,Sandal,Sandal,Yes
@@ -9098,9 +9098,9 @@
 9096,Trouser,Trouser,Yes
 9097,Sandal,Sandal,Yes
 9098,T-shirt/top,Trouser,NO
-9099,Ankle boot,Sneaker,NO
+9099,Ankle boot,Ankle boot,Yes
 9100,Pullover,Pullover,Yes
-9101,Shirt,Shirt,Yes
+9101,Shirt,Coat,NO
 9102,Trouser,Trouser,Yes
 9103,T-shirt/top,T-shirt/top,Yes
 9104,Ankle boot,Ankle boot,Yes
@@ -9131,7 +9131,7 @@
 9129,Shirt,Shirt,Yes
 9130,T-shirt/top,T-shirt/top,Yes
 9131,Sneaker,Sneaker,Yes
-9132,Sandal,Sandal,Yes
+9132,Sandal,Sneaker,NO
 9133,T-shirt/top,T-shirt/top,Yes
 9134,T-shirt/top,T-shirt/top,Yes
 9135,Pullover,Pullover,Yes
@@ -9152,7 +9152,7 @@
 9150,Sneaker,Sneaker,Yes
 9151,Pullover,Pullover,Yes
 9152,Bag,Bag,Yes
-9153,Shirt,Pullover,NO
+9153,Shirt,Shirt,Yes
 9154,Shirt,Shirt,Yes
 9155,Shirt,Dress,NO
 9156,Trouser,Trouser,Yes
@@ -9297,7 +9297,7 @@
 9295,T-shirt/top,T-shirt/top,Yes
 9296,Coat,Coat,Yes
 9297,Dress,Dress,Yes
-9298,T-shirt/top,T-shirt/top,Yes
+9298,T-shirt/top,Coat,NO
 9299,T-shirt/top,T-shirt/top,Yes
 9300,Ankle boot,Ankle boot,Yes
 9301,Trouser,Trouser,Yes
@@ -9363,12 +9363,12 @@
 9361,Ankle boot,Ankle boot,Yes
 9362,Sandal,Sandal,Yes
 9363,Shirt,Shirt,Yes
-9364,Ankle boot,Sandal,NO
+9364,Ankle boot,Sneaker,NO
 9365,Coat,Coat,Yes
 9366,Bag,Bag,Yes
 9367,Sandal,Sandal,Yes
 9368,Coat,Coat,Yes
-9369,Dress,Trouser,NO
+9369,Dress,Dress,Yes
 9370,Trouser,Trouser,Yes
 9371,Ankle boot,Ankle boot,Yes
 9372,Bag,Bag,Yes
@@ -9383,7 +9383,7 @@
 9381,Bag,Bag,Yes
 9382,Shirt,Pullover,NO
 9383,Trouser,Trouser,Yes
-9384,T-shirt/top,Coat,NO
+9384,T-shirt/top,Shirt,NO
 9385,Ankle boot,Ankle boot,Yes
 9386,Pullover,Shirt,NO
 9387,Bag,Bag,Yes
@@ -9408,7 +9408,7 @@
 9406,Pullover,Pullover,Yes
 9407,Pullover,Pullover,Yes
 9408,Trouser,Trouser,Yes
-9409,Coat,Coat,Yes
+9409,Coat,Pullover,NO
 9410,Pullover,Pullover,Yes
 9411,Bag,Bag,Yes
 9412,Pullover,Pullover,Yes
@@ -9423,7 +9423,7 @@
 9421,Sneaker,Sneaker,Yes
 9422,T-shirt/top,T-shirt/top,Yes
 9423,Sneaker,Sneaker,Yes
-9424,T-shirt/top,Shirt,NO
+9424,T-shirt/top,T-shirt/top,Yes
 9425,Shirt,Shirt,Yes
 9426,Trouser,Trouser,Yes
 9427,Shirt,T-shirt/top,NO
@@ -9618,7 +9618,7 @@
 9616,Coat,Coat,Yes
 9617,Sneaker,Sneaker,Yes
 9618,Ankle boot,Ankle boot,Yes
-9619,T-shirt/top,T-shirt/top,Yes
+9619,T-shirt/top,Shirt,NO
 9620,Shirt,Shirt,Yes
 9621,Coat,Coat,Yes
 9622,Dress,Dress,Yes
@@ -9633,7 +9633,7 @@
 9631,Bag,Bag,Yes
 9632,Trouser,Trouser,Yes
 9633,Pullover,Pullover,Yes
-9634,Sneaker,Ankle boot,NO
+9634,Sneaker,Sneaker,Yes
 9635,T-shirt/top,T-shirt/top,Yes
 9636,Sandal,Sandal,Yes
 9637,T-shirt/top,T-shirt/top,Yes
@@ -9714,7 +9714,7 @@
 9712,Shirt,Shirt,Yes
 9713,Bag,Bag,Yes
 9714,Ankle boot,Ankle boot,Yes
-9715,T-shirt/top,T-shirt/top,Yes
+9715,T-shirt/top,Shirt,NO
 9716,Sneaker,Sandal,NO
 9717,Dress,Dress,Yes
 9718,Shirt,Shirt,Yes
@@ -9820,9 +9820,9 @@
 9818,Coat,Coat,Yes
 9819,Bag,Bag,Yes
 9820,Ankle boot,Ankle boot,Yes
-9821,Dress,Dress,Yes
+9821,Dress,Coat,NO
 9822,Pullover,Coat,NO
-9823,T-shirt/top,Shirt,NO
+9823,T-shirt/top,T-shirt/top,Yes
 9824,Sandal,Sneaker,NO
 9825,Trouser,Trouser,Yes
 9826,Pullover,Pullover,Yes
@@ -9844,7 +9844,7 @@
 9842,Bag,Bag,Yes
 9843,Pullover,Pullover,Yes
 9844,Coat,Coat,Yes
-9845,Shirt,Shirt,Yes
+9845,Shirt,Coat,NO
 9846,Sneaker,Sneaker,Yes
 9847,T-shirt/top,Bag,NO
 9848,Shirt,Shirt,Yes
@@ -9876,7 +9876,7 @@
 9874,Trouser,Trouser,Yes
 9875,Sandal,Sandal,Yes
 9876,Dress,Dress,Yes
-9877,Ankle boot,Ankle boot,Yes
+9877,Ankle boot,Sneaker,NO
 9878,T-shirt/top,T-shirt/top,Yes
 9879,Sandal,Sandal,Yes
 9880,Shirt,Shirt,Yes
@@ -9981,7 +9981,7 @@
 9979,Pullover,Pullover,Yes
 9980,Sneaker,Sneaker,Yes
 9981,Coat,Coat,Yes
-9982,Sandal,Sandal,Yes
+9982,Sandal,Sneaker,NO
 9983,Sandal,Sandal,Yes
 9984,Sandal,Sandal,Yes
 9985,T-shirt/top,T-shirt/top,Yes
@@ -9993,7 +9993,7 @@
 9991,Ankle boot,Ankle boot,Yes
 9992,Coat,Coat,Yes
 9993,Bag,Bag,Yes
-9994,T-shirt/top,T-shirt/top,Yes
+9994,T-shirt/top,Shirt,NO
 9995,T-shirt/top,T-shirt/top,Yes
 9996,Shirt,Shirt,Yes
 9997,Bag,Bag,Yes
