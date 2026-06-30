@@ -15,10 +15,10 @@ Vectorstore = Chroma(
 )
 
 llm = ChatGoogleGenerativeAI(
-    model="gemini-2.5-flash-lite",
+    model="gemini-3.1-flash-lite",
     api_key=api_key,
     temperature=0.5
-    )
+)
 
 def answer_query(query):
     docs = Vectorstore.similarity_search(
@@ -40,8 +40,11 @@ Context:
 Question:
 {query}
 """
-    response = llm.invoke(prompt)
-    return response.content
+    try:
+        response = llm.invoke(prompt)
+        return response.content[0]["text"]
+    except:
+        return "Gemimi Limit Reached"
     
 if __name__=="__main__":
     query = input("Enter Query : ")
