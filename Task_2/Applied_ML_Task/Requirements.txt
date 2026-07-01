@@ -5,7 +5,6 @@ langchain
 langchain-huggingface
 langchain-community
 langchain_google_genai
-pypdf
 streamlit
 pandas
 tqdm
