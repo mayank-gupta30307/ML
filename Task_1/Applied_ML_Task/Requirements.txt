@@ -5,3 +5,5 @@ langchain-community
 langchain_google_genai
 pypdf
 streamlit
+torch
+python-dotenv

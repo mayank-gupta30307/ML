@@ -50,10 +50,3 @@ if __name__=="__main__":
     query = input("Enter Query : ")
     response = answer_query(query=query)
     print(response)
-
-
-"""
--Rename the files
--add the frontend
--Chilllllllllll
-"""

@@ -1,0 +1,13 @@
+bs4
+requests
+chromadb
+langchain
+langchain-huggingface
+langchain-community
+langchain_google_genai
+pypdf
+streamlit
+pandas
+tqdm
+python-dotenv
+rank_bm25
