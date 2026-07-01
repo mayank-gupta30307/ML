@@ -1,6 +1,4 @@
 from langchain_huggingface import HuggingFaceEmbeddings
-import torch
-import os
 
 def embedding():
     embeddings = HuggingFaceEmbeddings(
